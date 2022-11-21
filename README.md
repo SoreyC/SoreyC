@@ -5,7 +5,7 @@
 - 👀 Desarrolladora frontend, ¡Laboratorian!
 - 🌱 También soy Ingeniera Geóloga
 - 🔭 Disfruto aprendiendo a aprender
-- 💞️ Amo la repostería, Leer y tejer
+- 💞️ Amo la repostería, Leer, tejer y bailar!
 - 📫 www.linkedin.com/in/sorey-cortés-guzmán
 
 ✨ Habilidades: 
