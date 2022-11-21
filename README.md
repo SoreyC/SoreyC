@@ -9,4 +9,4 @@
 - 📫 www.linkedin.com/in/sorey-cortés-guzmán
 
 ✨ Habilidades: 
-HTML5 | CSS3 | JS | Git | GitHub | Node | Figma | Jets | Firebase
+HTML5 | CSS3 | JS | Git | GitHub | Figma | Jets |
